@@ -1,0 +1,380 @@
+# depslib dependency file v1.0
+1514140580 source:c:\users\vishesh goyal\desktop\computer raphics\assignment 2\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1521575287 source:c:\users\vishesh goyal\desktop\computer raphics\assignment 2\playfield.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/quaternion.hpp>
+	<glm/gtx/quaternion.hpp>
+	<glm/gtx/euler_angles.hpp>
+	<glm/gtx/norm.hpp>
+	"common/shader.cpp"
+	"common/texture.cpp"
+	"common/controls.cpp"
+	"common/objloader.cpp"
+	"common/vboindexer.cpp"
+	"common/tangentspace.cpp"
+
+1471508560 c:\users\vishesh goyal\desktop\computer raphics\libraries\glfw-3.2.1.bin.win32\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1501517782 c:\users\vishesh goyal\desktop\computer raphics\libraries\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\shader.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\shader.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\texture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
+1521568544 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\controls.cpp
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"controls.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\controls.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objloader.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\objloader.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\vboindexer.cpp
+	<vector>
+	<map>
+	<glm/glm.hpp>
+	"vboindexer.hpp"
+	<string.h>
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\vboindexer.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\tangentspace.cpp
+	<vector>
+	<glm/glm.hpp>
+	"tangentspace.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\tangentspace.hpp
+
+1521538732 source:c:\users\vishesh goyal\desktop\computer raphics\assignment 2\save.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/transform.hpp>
+	"common/shader.cpp"
+	"common/texture.cpp"
+	"common/controls.cpp"
+	"common/objloader.cpp"
+	"common/vboindexer.cpp"
+	"common/tangentspace.cpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\quaternion_utils.cpp
+	<glm/gtc/quaternion.hpp>
+	<glm/gtx/quaternion.hpp>
+	<glm/gtx/euler_angles.hpp>
+	<glm/gtx/norm.hpp>
+	"quaternion_utils.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer raphics\assignment 2\common\quaternion_utils.hpp
+
+1521809025 source:c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\playfield.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/quaternion.hpp>
+	<glm/gtx/quaternion.hpp>
+	<glm/gtx/euler_angles.hpp>
+	<glm/gtx/norm.hpp>
+	"common/shader.cpp"
+	"common/texture.cpp"
+	"common/controls.cpp"
+	"common/objloader.cpp"
+	"common/vboindexer.cpp"
+	"common/tangentspace.cpp"
+
+1471508560 c:\users\vishesh goyal\desktop\computer_graphics\libraries\glfw-3.2.1.bin.win32\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\shader.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\texture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
+1521631561 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\controls.cpp
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"controls.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\controls.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objloader.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\objloader.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\vboindexer.cpp
+	<vector>
+	<map>
+	<glm/glm.hpp>
+	"vboindexer.hpp"
+	<string.h>
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\vboindexer.hpp
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\tangentspace.cpp
+	<vector>
+	<glm/glm.hpp>
+	"tangentspace.hpp"
+
+1519359058 c:\users\vishesh goyal\desktop\computer_graphics\assignment 2\common\tangentspace.hpp
+
+1501517782 c:\users\vishesh goyal\desktop\computer_graphics\libraries\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1521809025 source:c:\computer_graphics\assignment 2\playfield.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<math.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/transform.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/quaternion.hpp>
+	<glm/gtx/quaternion.hpp>
+	<glm/gtx/euler_angles.hpp>
+	<glm/gtx/norm.hpp>
+	"common/shader.cpp"
+	"common/texture.cpp"
+	"common/controls.cpp"
+	"common/objloader.cpp"
+	"common/vboindexer.cpp"
+	"common/tangentspace.cpp"
+
+1501517782 c:\computer_graphics\libraries\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1471508560 c:\computer_graphics\libraries\glfw-3.2.1.bin.win32\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1519359058 c:\computer_graphics\assignment 2\common\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"shader.hpp"
+
+1519359058 c:\computer_graphics\assignment 2\common\shader.hpp
+
+1519359058 c:\computer_graphics\assignment 2\common\texture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
+1521631561 c:\computer_graphics\assignment 2\common\controls.cpp
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"controls.hpp"
+
+1519359058 c:\computer_graphics\assignment 2\common\controls.hpp
+
+1519359058 c:\computer_graphics\assignment 2\common\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"objloader.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1519359058 c:\computer_graphics\assignment 2\common\objloader.hpp
+
+1519359058 c:\computer_graphics\assignment 2\common\vboindexer.cpp
+	<vector>
+	<map>
+	<glm/glm.hpp>
+	"vboindexer.hpp"
+	<string.h>
+
+1519359058 c:\computer_graphics\assignment 2\common\vboindexer.hpp
+
+1519359058 c:\computer_graphics\assignment 2\common\tangentspace.cpp
+	<vector>
+	<glm/glm.hpp>
+	"tangentspace.hpp"
+
+1519359058 c:\computer_graphics\assignment 2\common\tangentspace.hpp
+
